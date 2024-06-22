@@ -130,7 +130,7 @@ SELECT
 FROM netflix_shows;
 
 
--- Number of shows, movies, and tv shows by released
+-- Number of shows, movies, and tv shows by year released
 
 SELECT
   released_year,
